@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "749880374327",
+    "project_id": "authentication-demo-e90bd",
+    "storage_bucket": "authentication-demo-e90bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749880374327:android:80ddaa882eb50686c17bb2",
+        "android_client_info": {
+          "package_name": "com.mytask.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749880374327-598ahn46ap17j75i9ecdm0fhcun87icm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mytask.app",
+            "certificate_hash": "ee407dff03bfc986167938909b0c6dbc86ec88b5"
+          }
+        },
+        {
+          "client_id": "749880374327-c95fttjm43e64lcgj3m2i5k5l92ttr5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0qZ3o59SEia7CLYYjKoFCr2GXmTwOKx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749880374327-c95fttjm43e64lcgj3m2i5k5l92ttr5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
